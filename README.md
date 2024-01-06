@@ -43,16 +43,16 @@ Allows the user to export transaction data into a file for record-keeping.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/doukkani17moha/A-Simple-GUI-with-JAVA.git
+   git clone https://github.com/doukkani17moha/BankApp-Java-with-Threads.git
 
 -------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
   <h2>Login Form</h2>
-  <img src="https://github.com/doukkani17moha/A-Simple-GUI-with-JAVA/blob/main/imgs/compte.PNG" alt="Compte Tab">
+  <img src="https://github.com/doukkani17moha/BankApp-Java-with-Threads/blob/main/imgs/compte.PNG" alt="Compte Tab">
 </div>
 <div align="center">
   <h2>Signup Form</h2>
-  <img src="https://github.com/doukkani17moha/A-Simple-GUI-with-JAVA/blob/main/imgs/transfert.PNG" alt="Transfert Tab">
+  <img src="https://github.com/doukkani17moha/BankApp-Java-with-Threads/blob/main/imgs/transfert.PNG" alt="Transfert Tab">
 </div>
 
 Happy Banking! 🏦🌐
